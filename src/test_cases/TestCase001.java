@@ -8,4 +8,6 @@ public class TestCase001 {
 
     // positive testing
 
+    // negative testing
+
 }
