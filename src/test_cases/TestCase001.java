@@ -10,4 +10,6 @@ public class TestCase001 {
 
     // negative testing
 
+    ///after cloning
+
 }
